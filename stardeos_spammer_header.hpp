@@ -14,7 +14,6 @@
 
 namespace stardeos_nk125 {
     using namespace std;
-    using namespace chrono_literals;
     class spam {
     public:
         // Failed and successed requests.
